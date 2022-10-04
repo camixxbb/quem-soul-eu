@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+div {
+    height: 600px;
+    margin: auto;
+    border: 2px solid whitesmoke;
+    background-color: #fcaae1;
+    width: 800px;
+}
+body {
+    background-color: rgb(240, 212, 230);
+}
+    
+nav ul li a {
+        color: #ee00b2c2;
+        padding:3px 5px;
+        background-color: whitesmoke;
+    }
+
+#menu-h{
+    max-width: 800px;
+    list-style: none;
+    margin: 20px;
+    background-color:#fcaae1;
+    border: 4px solid whitesmoke;
+}
+#menu-h ul li{
+    display: inline;
+}
+#menu-h ul li{
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+ .menu{
+    text-align: center;
+}
+  
+  .menu-item {
+    display: inline-block;
+  }
+  h1{
+    font-family: 'Comforter Brush', cursive;
+    color: whitesmoke;
+  }
+  p{
+    font-family: 'Gruppo', cursive; 
+    color: rgb(196, 0, 127);
+    margin-left: 12px;
+    font-size: large;
+  }
+  .div1 {
+    width: 800px;
+    height: 180px;
+    margin: auto;
+    border: 2px solid whitesmoke;
+    background-color: #fcaae1;
+    
+  }
