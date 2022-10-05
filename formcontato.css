@@ -64,3 +64,30 @@ form label {
     color: #FFFFFF;
     font-weight: bold;
 }
+h4{
+    color: rgb(196, 0, 127);
+    text-align: left;
+  }
+
+ /*Link não visitado */
+ a:link {
+    color: rgb(196, 0, 127);
+   
+  }
+  
+  /*Link já visitado*/
+  a:visited {
+    color: #fcaae1;
+  
+  }
+  
+  /*Quando o mouse passa por cima*/
+  a:hover {
+    color: pink;
+  }
+  
+  /*Link ativo/selecionado*/
+  a:active {
+    color: whitesmoke;
+  }
+  
